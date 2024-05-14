@@ -1,4 +1,4 @@
-package io.glitchtech;
+package io.glitchtech.model;
 
 public class TollStation {
     private String stationId;
